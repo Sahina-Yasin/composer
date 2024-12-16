@@ -164,6 +164,10 @@ applications in a secure and predictable manner.
 As mentioned above, the `composer.lock` file prevents you from automatically getting
 the latest versions of your dependencies. To update to the latest versions, use the
 [`update`](03-cli.md#update-u) command. This will fetch the latest matching
+
+
+
+
 versions (according to your `composer.json` file) and update the lock file
 with the new versions.
 
